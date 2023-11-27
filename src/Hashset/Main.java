@@ -26,5 +26,7 @@ public class Main {
         while(namesIterator.hasNext()){
             System.out.println(namesIterator.next());
         }
+
+
     }
 }
